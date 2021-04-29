@@ -1,0 +1,17 @@
+{
+  "name": "fake-italian-data",
+  "version": "1.0.0",
+  "description": "Fake data of italian people",
+  "main": "index.js",
+  "repository": "https://github.com/puria/fake-italian-data",
+  "author": "Puria Nafisi Azizi",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "codice-fiscale-js": "^2.3.9",
+    "csv-stringify": "^5.6.2",
+    "faker": "^5.5.3"
+  }
+}
