@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/puria/fake-italian-data",
   "author": "Puria Nafisi Azizi",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "scripts": {
-    "start": "node index.js"
+    "build": "node index.js"
   },
   "dependencies": {
     "codice-fiscale-js": "^2.3.9",
